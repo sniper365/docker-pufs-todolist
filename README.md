@@ -45,13 +45,3 @@ Wait a minutes and open [http://localhost:3000](http://localhost:3000) with your
 
 By default, the username is `admin` and the password is `admin`.
 
-## Learn More
-
-This is a side project built by [Jacky Fan](https://github.com/redfrogsss) - a university student in HK. 
-
-The following tech is used in this project.
-- [Next.js](https://nextjs.org/) - the frontend and backend framework of this project.
-- [Chakra-UI](https://chakra-ui.com/) - the UI solutions of this project.
-- [MySQL](https://www.mysql.com/) - the database of this project.
-
-You can check out [my dirty code in Github](https://github.com/redfrogsss/selfremind) - your feedback are welcome!
