@@ -43,5 +43,5 @@ docker-compose up -d
 
 Wait a minutes and open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-By default, the username is `admin` and the password is `admin`.
+By default, the username is `admin` and the password is `admin`. 
 
